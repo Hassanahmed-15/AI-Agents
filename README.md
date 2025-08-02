@@ -1,4 +1,4 @@
-# 🧾 AI agents
+# 🧾 AI Agents
 
 
 This repo is just for my own **practice and experiments with n8n workflows**.  
